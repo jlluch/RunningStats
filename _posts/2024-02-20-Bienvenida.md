@@ -5,11 +5,7 @@ read_time: true
 show_date: true
 date:   2024-02-20 16:30:20 -0600
 description: Bienvenida al blog
-<<<<<<< HEAD:_posts/2024-02-20-Bienvenida.md
-img: posts/20240220/RS-logo.png  
-=======
-img: posts/20240222/RS-logo.jpg  
->>>>>>> 893827a99005f8a628af3780b7ced51cfe639a30:_posts/2024-02-22-Bienvenida.md
+img: posts/20240220/RS-logo.jpg  
 tags: [bienvenida]
 author: Xavi Lluch
 github:  jlluch/RunningStats
