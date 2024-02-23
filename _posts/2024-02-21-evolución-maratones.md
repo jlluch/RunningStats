@@ -31,14 +31,68 @@ Sin duda, el crecimiento de Valencia en cuanto a rendimiento de corredores es es
 
 <!-- Insertar tabla de resultados -->
 Datos sub 2h30'
-| City     | 2018 | 2019 | 2021 | 2022 | 2023 |
-| -------- | ---- | ---- | ---- | ---- | ---- |
-| Berlin   |  111 |  199 |   76 |  173 |  234 |
-| Boston   |   22 |  104 |   83 |  123 |  145 |
-| Chicago  |   91 |  140 |   52 |  134 |  163 |
-| London   |   51 |  133 |  120 |  106 |  163 |
-| Paris    |   44 |   69 |   76 |  106 |   95 |
-| Valencia |  103 |  190 |  230 |  376 |  566 |
+<table>
+  <thead>
+    <tr>
+      <th>City</th>
+      <th>2018</th>
+      <th>2019</th>
+      <th>2021</th>
+      <th>2022</th>
+      <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Berlin</td>
+      <td>111</td>
+      <td>199</td>
+      <td>76</td>
+      <td>173</td>
+      <td>234</td>
+    </tr>
+    <tr>
+      <td>Boston</td>
+      <td>22</td>
+      <td>104</td>
+      <td>83</td>
+      <td>123</td>
+      <td>145</td>
+    </tr>
+    <tr>
+      <td>Chicago</td>
+      <td>91</td>
+      <td>140</td>
+      <td>52</td>
+      <td>134</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>London</td>
+      <td>51</td>
+      <td>133</td>
+      <td>120</td>
+      <td>106</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>Paris</td>
+      <td>44</td>
+      <td>69</td>
+      <td>76</td>
+      <td>106</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td>Valencia</td>
+      <td>103</td>
+      <td>190</td>
+      <td>230</td>
+      <td>376</td>
+      <td>566</td>
+    </tr>
+  </tbody>
+</table>
 
 Datos sub 3 horas
 | City     | 2018 | 2019 | 2021 | 2022 | 2023 |
