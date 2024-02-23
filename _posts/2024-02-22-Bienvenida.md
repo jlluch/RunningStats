@@ -5,7 +5,7 @@ read_time: true
 show_date: true
 date:   2024-02-22 16:30:20 -0600
 description: Bienvenida al blog
-img: assets/img/branding/LogoT.png 
+img: assets/img/posts/20240222/Icono.png  
 tags: [bienvenida]
 author: Xavi Lluch
 github:  jlluch/RunningStats
