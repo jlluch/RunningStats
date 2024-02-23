@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title:  Evolución resultados maratones 2018-2023
-date:   2024-02-23 18:30:20 -0600
+date:   2024-02-23 8:30:20 -0600
 description: Evolución de los resultados en los maratones de Berlín, Bosoton, Chicago, Londres, Nueva York, París y Valencia
 img: assets/img/posts/20240223/Icono.png 
 tags: [maratones, resultados, comparativas]
@@ -11,6 +11,7 @@ author: Xavi Lluch
 github:  jlluch/RunningStats
 mathjax: yes
 ---
+
 As an entry point to learning python and getting into Machine Learning, I decided to code from scratch the Hello World! of the field, a single neuron perceptron.
 
 ## What is a perceptron?
