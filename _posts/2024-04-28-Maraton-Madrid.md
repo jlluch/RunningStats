@@ -4,9 +4,9 @@ read_time: true
 show_date: true
 title:  Maratón de Madrid 2024
 date:   2024-04-28 8:30:20 -0600
-description: Evolución de los resultados en los maratones de Berlín, Bosoton, Chicago, Londres, Nueva York, París y Valencia
-img: posts/20240221/sub2h30.jpg 
-tags: [maratones, resultados, comparativas]
+description: Datos del maratón de Madrid 2024
+img: posts/20240428/TimeDistributionMadridMarathonTotal.svg 
+tags: [maratones, resultados]
 author: Xavi Lluch
 github:  jlluch/RunningStats
 mathjax: yes
