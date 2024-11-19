@@ -25,3 +25,68 @@ El tiempo medio del 10% más rápido ha sido 3:01:24, y el del 25% 3:15:48.El ti
 
 En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:
 
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">City</th>
+      <th colspan="5">Years</th>
+    </tr>
+    <tr>
+      <th>2018</th>
+      <th>2019</th>
+      <th>2021</th>
+      <th>2022</th>
+      <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Berlin</td>
+      <td>1692</td>
+      <td>2456</td>
+      <td>1218</td>
+      <td>2386</td>
+      <td>3191</td>
+    </tr>
+    <tr>
+      <td>Boston</td>
+      <td>1811</td>
+      <td>2631</td>
+      <td>1547</td>
+      <td>3287</td>
+      <td>4175</td>
+    </tr>
+    <tr>
+      <td>Chicago</td>
+      <td>1322</td>
+      <td>1978</td>
+      <td>709</td>
+      <td>2058</td>
+      <td>3279</td>
+    </tr>
+    <tr>
+      <td>London</td>
+      <td>1140</td>
+      <td>2314</td>
+      <td>2144</td>
+      <td>1910</td>
+      <td>3031</td>
+    </tr>
+    <tr>
+      <td>Paris</td>
+      <td>960</td>
+      <td>1575</td>
+      <td>1171</td>
+      <td>1738</td>
+      <td>2408</td>
+    </tr>
+    <tr>
+      <td>Valencia</td>
+      <td>1728</td>
+      <td>2149</td>
+      <td>1940</td>
+      <td>3958</td>
+      <td>5269</td>
+    </tr>
+  </tbody>
+</table>
