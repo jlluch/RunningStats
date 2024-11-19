@@ -12,6 +12,11 @@ github:  jlluch/RunningStats
 mathjax: yes
 ---
 
+Madrid-2024
+===========
+
+# Datos del maratón de Madrid 2024 Fecha: 28/04/24
+
 El maratón de Madrid 2024 ha tenido 9125 finishers, de los que 1384 fueron mujeres, lo que supone un 15.17% del total.
 
 El tiempo medio de todos los participantes ha sido 4:01:54, el de los hombres 3:58:12 y el de las mujeres 4:22:54.
