@@ -65,7 +65,7 @@ comments_opts:
   discus_identifier: # Add your discus identifier
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 mathjax: true
 highlighter: rouge
 compress_html:
