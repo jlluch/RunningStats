@@ -23,17 +23,71 @@ El tiempo medio de todos los participantes ha sido 4:01:54, el de los hombres 3:
 El tiempo medio del 10% más rápido ha sido 3:01:24, y el del 25% 3:15:48.El tiempo medio de los 100 primeros ha sido 2:38:36, y para los 1000 primeros 3:02:42.
 
 En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:  
+<!-- Insertar tabla de resultados -->
+Datos sub 2h30'
+<table>
+  <thead>
+    <tr>
+      <th>City</th>
+      <th>2018</th>
+      <th>2019</th>
+      <th>2021</th>
+      <th>2022</th>
+      <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Berlin</td>
+      <td>111</td>
+      <td>199</td>
+      <td>76</td>
+      <td>173</td>
+      <td>234</td>
+    </tr>
+    <tr>
+      <td>Boston</td>
+      <td>22</td>
+      <td>104</td>
+      <td>83</td>
+      <td>123</td>
+      <td>145</td>
+    </tr>
+    <tr>
+      <td>Chicago</td>
+      <td>91</td>
+      <td>140</td>
+      <td>52</td>
+      <td>134</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>London</td>
+      <td>51</td>
+      <td>133</td>
+      <td>120</td>
+      <td>106</td>
+      <td>163</td>
+    </tr>
+    <tr>
+      <td>Paris</td>
+      <td>44</td>
+      <td>69</td>
+      <td>76</td>
+      <td>106</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td>Valencia</td>
+      <td>103</td>
+      <td>190</td>
+      <td>230</td>
+      <td>376</td>
+      <td>566</td>
+    </tr>
+  </tbody>
+</table>
 
-|Tiempo|Finishers|%|
-
-|Sub2:10|4|0.04|
-|Sub2:20|11|0.12|
-|Sub2:30|20|0.22|
-|Sub2:45|59|0.65|
-|Sub3:00|364|3.99|
-|Sub3:30|1953|21.4|
-|Sub4:00|4865|53.32|
-|Over4:00|4260|46.68|
 
 Por último, en cuanto al resumen general, la primera media maratón tiene un tiempo medio de 1:54:00 y la segunda de 2:07:00 con un 7.82% de Negative Pace. Para los hombres, la primera media maratón tiene un tiempo medio de 1:52:12 y la segunda de 2:05:06 con un 7.78% de Negative Pace. Y para las mujeres, la primera media maratón tiene un tiempo medio de 2:04:00 y la segunda de 2:17:30 con un 8.09% de Negative Pace.
 
