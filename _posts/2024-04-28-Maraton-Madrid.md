@@ -35,3 +35,5 @@ En esta tabla se resume el número de finishers por espacios de tiempos y el por
 |Sub3:30|1953|21.4|
 |Sub4:00|4865|53.32|
 |Over4:00|4260|46.68|
+
+Por último, en cuanto al resumen general, la primera media maratón tiene un tiempo medio de 1:54:00 y la segunda de 2:07:00 con un 7.82% de Negative Pace. Para los hombres, la primera media maratón tiene un tiempo medio de 1:52:12 y la segunda de 2:05:06 con un 7.78% de Negative Pace. Y para las mujeres, la primera media maratón tiene un tiempo medio de 2:04:00 y la segunda de 2:17:30 con un 8.09% de Negative Pace.
