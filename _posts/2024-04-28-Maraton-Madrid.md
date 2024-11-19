@@ -24,6 +24,13 @@ El tiempo medio del 10% más rápido ha sido 3:01:24, y el del 25% 3:15:48.El ti
 
 En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:  
 
+<table align="center">
+  <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
+  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
+  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
+  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
+</table>
+
 Por último, en cuanto al resumen general, la primera media maratón tiene un tiempo medio de 1:54:00 y la segunda de 2:07:00 con un 7.82% de Negative Pace. Para los hombres, la primera media maratón tiene un tiempo medio de 1:52:12 y la segunda de 2:05:06 con un 7.78% de Negative Pace. Y para las mujeres, la primera media maratón tiene un tiempo medio de 2:04:00 y la segunda de 2:17:30 con un 8.09% de Negative Pace.
 
 
