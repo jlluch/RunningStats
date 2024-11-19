@@ -23,7 +23,8 @@ El tiempo medio de todos los participantes ha sido 4:01:54, el de los hombres 3:
 
 El tiempo medio del 10% más rápido ha sido 3:01:24, y el del 25% 3:15:48.El tiempo medio de los 100 primeros ha sido 2:38:36, y para los 1000 primeros 3:02:42.
 
-En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:  
+En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:
+<!-- Insertar tabla de resultados -->  
 <table>
   <tr>
     <th>Tiempo</th>
