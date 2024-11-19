@@ -1,4 +1,16 @@
-
+---
+layout: post
+read_time: true
+show_date: true
+title:  Maratón de Madrid 2024
+date:   2024-04-28 8:30:20 -0600
+description: Evolución de los resultados en los maratones de Berlín, Bosoton, Chicago, Londres, Nueva York, París y Valencia
+img: posts/20240221/sub2h30.jpg 
+tags: [maratones, resultados, comparativas]
+author: Xavi Lluch
+github:  jlluch/RunningStats
+mathjax: yes
+---
 Madrid-2024
 ===========
 
@@ -28,9 +40,9 @@ En esta tabla se resume el número de finishers por espacios de tiempos y el por
 Por último, en cuanto al resumen general, la primera media maratón tiene un tiempo medio de 1:54:00 y la segunda de 2:07:00 con un 7.82% de Negative Pace. Para los hombres, la primera media maratón tiene un tiempo medio de 1:52:12 y la segunda de 2:05:06 con un 7.78% de Negative Pace. Y para las mujeres, la primera media maratón tiene un tiempo medio de 2:04:00 y la segunda de 2:17:30 con un 8.09% de Negative Pace.
 
 Las siguientes imágenes muestran la distribución de tiempos de los corredores en el maratón por género:  
-![Distribución de tiempos total](TimeDistributionMadridMarathonTotal.svg)  
-![Distribución de tiempos hombres](TimeDistributionMadridMarathonMen.svg)  
-![Distribución de tiempos mujeres](TimeDistributionMadridMarathonWomen.svg)
+![Distribución de tiempos total](./assets/img/posts/20240428/TimeDistributionMadridMarathonTotal.svg)  
+![Distribución de tiempos hombres](./assets/img/posts/20240428/TimeDistributionMadridMarathonMen.svg)  
+![Distribución de tiempos mujeres](./assets/img/posts/20240428/TimeDistributionMadridMarathonWomen.svg)
 ## Datos por grupo de edad y género
 
 
