@@ -26,6 +26,7 @@ En esta tabla se resume el número de finishers por espacios de tiempos y el por
 
 | Tiempo | Finishers | % |
 |---|---|---|
+
 |Sub2:10|4|0.04|
 |Sub2:20|11|0.12|
 |Sub2:30|20|0.22|
