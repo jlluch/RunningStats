@@ -66,9 +66,8 @@ comments_opts:
 
 # Build settings
 markdown: kramdown
-    input: GFM
-    auto_ids: true
-    hard_wrap: true
+input: GFM
+auto_ids: true
 mathjax: true
 highlighter: rouge
 compress_html:
