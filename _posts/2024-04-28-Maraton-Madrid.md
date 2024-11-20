@@ -24,6 +24,7 @@ El tiempo medio del 10% más rápido ha sido 3:01:24, y el del 25% 3:15:48.El ti
 
 En esta tabla se resume el número de finishers por espacios de tiempos y el porcentaje respecto al total:  
 
+|---|---|---|
 | Tiempo | Finishers | % |
 |---|---|---|
 
