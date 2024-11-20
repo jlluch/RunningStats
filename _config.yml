@@ -73,6 +73,7 @@ compress_html:
   comments: all
   startings: [html, head, body]
 
+datatable: true
 # Outputting
 timezone: UTC+01:00 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
